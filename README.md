@@ -16,3 +16,5 @@ En caso contrario, se puede ejecutar con el archivo brindado en el repositorio l
 ## Contribuir
 
 Si desea contribuir lo puede hacer mediante la modificación del archivo *"COSCU_SOURCE"* (de manera ordenada en lo posible) o agregando funcionalidades que no cambien el espíritu del programa (que es ser molesto, no dañino).
+
+![][C:\Users\Rodri\Desktop\Programming\AprendiendoRust\VirusCoscu\icon.ico]
