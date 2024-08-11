@@ -17,3 +17,4 @@ En caso contrario, se puede ejecutar con el archivo brindado en el repositorio l
 
 Si desea contribuir lo puede hacer mediante la modificación del archivo *"COSCU_SOURCE"* (de manera ordenada en lo posible) o agregando funcionalidades que no cambien el espíritu del programa (que es ser molesto, no dañino).
 
+![](https://github.com/user-attachments/assets/34e03eef-eae9-41fa-8680-91c5abf457e3)
